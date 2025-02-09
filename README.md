@@ -1,14 +1,14 @@
 # Overview:
 - ## Objectives:
-- Build an A-Score (Application Score) predictive model using Python and the XGBoost algorithm.
-- Deploy the model via the Flask API.
+		- Build an A-Score (Application Score) predictive model using Python and the XGBoost algorithm.
+		- Deploy the model via the Flask API.
 - ## Data preparation:
-◦ Read data from a CSV file.
-◦ Handle missing values ​​using SimpleImputer (median for numerical variables and most common value for categorical variables).
-◦ Create new variables from existing data such as income_per_age and loan_to_income_ratio.
+		- Read data from a CSV file.
+		- Handle missing values ​​using SimpleImputer (median for numerical variables and most common value for categorical variables).
+		- Create new variables from existing data such as income_per_age and loan_to_income_ratio.
 - ## Model building:
-◦ Use XGBoost to build a predictive model.
-◦ Evaluate the model using accuracy and other metrics.
+		- Use XGBoost to build a predictive model.
+		- Evaluate the model using accuracy and other metrics.
 - ## Build Flask API and test model with Postman
 # Project launch guide (with Postman)
 1. **Download Postman and set up an account**: [https://www.postman.com/](https://www.postman.com/)
