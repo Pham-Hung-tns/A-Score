@@ -1,0 +1,40 @@
+[
+    {
+        "age": 30,
+        "income": 50000,
+        "loan_amount": 20000,
+        "gender": "male",
+        "occupation": "engineer"
+    },
+    {
+        "age": 100,
+        "income": 50000,
+        "loan_amount": 10000,
+        "gender": "male",
+        "occupation": "layer"
+    }
+    ,
+    {
+        "age": 50,
+        "income": 50000,
+        "loan_amount": 10000,
+        "gender": "male",
+        "occupation": "layer"
+    }
+    ,
+    {
+        "age": 20,
+        "income": 50000,
+        "loan_amount": 10000,
+        "gender": "male",
+        "occupation": "layer"
+    }
+    ,
+    {
+        "age": 70,
+        "income": 50000,
+        "loan_amount": 10000,
+        "gender": "male",
+        "occupation": "layer"
+    }
+]
